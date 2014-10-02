@@ -1,0 +1,16 @@
+
+#prgs{
+	width: 480px;
+	height: 800px;
+	background-image: url(images/bg_main.jpg);
+	background-repeat: no-repeat;
+}
+
+
+
+#pointer{
+	position: absolute;
+	margin-top: 316px;
+	margin-left: 103px;
+	-webkit-transform-origin: 89% 50%;
+}
